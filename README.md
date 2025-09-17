@@ -1,7 +1,7 @@
 <h1 align="center">🚀✨ Welcome to <span style="color:#00C9A7;">DSA-Odyssey</span> ✨🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="280px" />
+  <img src="./assets/banner.png" alt="DSA-Odyssey Banner" width="100%" />
 </p>
 
 <p align="center">
